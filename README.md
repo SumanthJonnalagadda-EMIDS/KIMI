@@ -3,7 +3,7 @@
 kimi:
   description: >
     🤖 Kimi is an advanced AI assistant developed by Moonshot AI, a Beijing-based company founded in 2023 by graduates of Tsinghua University.
-    🚀 Launched in October 2023, it’s designed for chat, Q&A, document analysis, code, multimodal input, and more.
+     Launched in October 2023, it’s designed for chat, Q&A, document analysis, code, multimodal input, and more.
   features:
     -  Massive context window
     -  Multimodal support
